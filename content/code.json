@@ -1,5 +1,5 @@
 {
-  "css": "/*HEADER*/\n\n.top-bar .whatsapp-link{\n   display: none !important;\n}\n.header__buttons{\n  text-transform: uppercase;\n}\n\n/*BODY*/\n\n.product-card:hover .product-card__buy{\n  display: none !important;\n}\n/*FOOTER*/",
+  "css": "/*HEADER*/\n\n.top-bar .whatsapp-link{\n   display: none !important;\n}\n.header__buttons{\n  text-transform: uppercase !important;\n}\n\n/*BODY*/\n\n.product-card:hover .product-card__buy{\n  display: none !important;\n}\n/*FOOTER*/",
   "html_head": "",
   "html_body": ""
 }
