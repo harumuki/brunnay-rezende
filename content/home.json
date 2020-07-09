@@ -36,13 +36,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-vestidos.jpg"
+          "img": "/img/uploads/banner-vestidos.jpg",
+          "link": "https://www.brunnayrezende.com.br/vestidos"
         },
         {
-          "img": "/img/uploads/banner-5.jpg"
+          "img": "/img/uploads/banner-5.jpg",
+          "link": "https://www.brunnayrezende.com.br/blusas"
         },
         {
-          "img": "/img/uploads/banner-amor.jpg"
+          "img": "/img/uploads/banner-amor.jpg",
+          "link": "https://www.brunnayrezende.com.br/vestidos"
         }
       ]
     },
