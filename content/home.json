@@ -33,6 +33,12 @@
       "enabled": false
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": null,
+      "title": "VITRINE DO DIA"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -52,8 +58,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "title": "VITRINE DO DIA"
+      "sort": "news",
+      "title": "SELECIONAMOS ALGUNS MODELOS PARA VOCÊ"
     },
     {
       "type": "banners-grid",
