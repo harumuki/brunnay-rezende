@@ -89,7 +89,7 @@
   text-decoration: none !important;
 }
 .prices__value, .cart__summary-row, .summary__amount__row {
-  display: none;
+  display: none !important;
 }
 .product-card__prices .prices__installments::before {
   content: 'ou ';
