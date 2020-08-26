@@ -88,7 +88,7 @@
 .product-card__prices .prices__compare {
   text-decoration: none !important;
 }
-.prices__value, .cart__summary-row, .summary__amount__row {
+.prices__value, .cart__summary-row, .summary__amount__row:first-child {
   display: none !important;
 }
 .product-card__prices .prices__installments::before {
