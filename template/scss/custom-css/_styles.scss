@@ -85,14 +85,11 @@
   text-align: center;
   color: #424242;
 }
-.product-card .prices__discount {
-  display: none;
-}
 .product-card__prices .prices__compare {
   text-decoration: none !important;
 }
-.product-card__prices .prices__value {
-  color: #424242;
+.prices__value, .cart__summary-row, .summary__amount__row {
+  display: none;
 }
 .product-card__prices .prices__installments::before {
   content: 'ou ';
