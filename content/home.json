@@ -7,6 +7,18 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2020-09-18T18:18:35.262Z",
+          "end": "",
+          "img": "/img/uploads/vida-collection-site-1-.png",
+          "mobile_img": "/img/uploads/vida-collection-site-2-.png"
+        },
+        {
+          "start": "2020-09-18T18:17:32.508Z",
+          "end": "",
+          "img": "/img/uploads/banner-1-1-.png",
+          "mobile_img": "/img/uploads/banner-1-mobile-1-.png"
+        },
+        {
           "img": "/img/uploads/banner-2-1-.png",
           "link": "/",
           "alt": "",
@@ -25,18 +37,6 @@
           "end": "",
           "img": "/img/uploads/3-1.jpg",
           "mobile_img": "/img/uploads/3-mobile.jpg"
-        },
-        {
-          "start": "2020-09-18T18:17:32.508Z",
-          "end": "",
-          "img": "/img/uploads/banner-1-1-.png",
-          "mobile_img": "/img/uploads/banner-1-mobile-1-.png"
-        },
-        {
-          "start": "2020-09-18T18:18:35.262Z",
-          "end": "",
-          "img": "/img/uploads/vida-collection-site-1-.png",
-          "mobile_img": "/img/uploads/vida-collection-site-2-.png"
         }
       ]
     },
