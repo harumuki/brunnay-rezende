@@ -162,3 +162,7 @@
   padding-left: .2rem;
   padding-right: .2rem;
 }
+//hide zoom
+.pswp--open {
+   display: none !important;
+}
