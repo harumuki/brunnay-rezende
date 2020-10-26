@@ -166,3 +166,12 @@
 .pswp--open {
    display: none !important;
 }
+.shipping-calculator__services::before {
+  content: "ESCOLHA SUA FORMA DE ENVIO";
+  font-weight: bold;
+  font-size: 1rem;
+}
+// hide new address
+.account-addresses__card + button {
+  display: none;
+}
