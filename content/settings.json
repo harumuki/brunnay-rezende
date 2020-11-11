@@ -1,4 +1,5 @@
 {
+  "store_id": 1112,
   "domain": "brunnayrezende.com.br",
   "currency_symbol": "R$",
   "primary_color": "#767474",
@@ -17,7 +18,6 @@
   "country_code": "BR",
   "secondary_color": "#fdbeb4",
   "icon": "/img/uploads/logo-site.png",
-  "store_id": 1112,
   "description": "A marca Brunnay Rezende nasceu a 15 anos, com a junção dos nomes das minhas filhas Nayara Jordanna e Brunna.  Brunnay Rezende tem seu olhar voltado para todas mulheres evangélicas e sonhadoras.\n",
   "large_icon": "/img/uploads/logo-site.png"
 }
